@@ -27,5 +27,4 @@ This project analyzes financial performance using Budget vs Actual data to ident
 Built a full FP&A reporting system simulating real corporate financial analysis.
 
 ## 🚀 Author
-Your Name
 Gulzar Begum
